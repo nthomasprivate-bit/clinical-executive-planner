@@ -1,0 +1,3 @@
+external_id,title,start,end,source,status,kind,location,description
+synthetic-wh-001,Synthetic governance committee,2026-10-19T10:00:00+11:00,2026-10-19T10:45:00+11:00,Western Health,Confirmed,meeting,Demo meeting room,Synthetic committee meeting for prototype testing
+synthetic-wh-002,Synthetic research planning,2026-10-20T13:00:00+11:00,2026-10-20T13:30:00+11:00,Western Health,Tentative,meeting,Demo meeting room,Provisional synthetic planning meeting
